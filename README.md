@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this page is still a WIP as I learn more about Github and the formatting used for pages 👋
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45125817/138690836-a5459645-0f80-4f1c-b85e-1124d8e2d015.png" alt="2021-10-25 125637" width="800"/>
