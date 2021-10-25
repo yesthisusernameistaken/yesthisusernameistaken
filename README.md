@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45125817/138690836-a5459645-0f80-4f1c-b85e-1124d8e2d015.png" alt="2021-10-25 125637" width="800"/>
+
+  
+
+
+
 <!--
 **yesthisusernameistaken/yesthisusernameistaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
